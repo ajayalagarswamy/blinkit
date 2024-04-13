@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Link {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-style: bold black;
+
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    font-size: 10px;
+    margin-left: 18px;
+
+}
+
+.veg {
+    margin: 20px;
+    background-color: white;
+    border: 20px solid whitesmoke;
+
+
+}
+
+.fruit {
+    margin: 20px;
+    background-color: white;
+    border: 20px solid whitesmoke;
+
+}
+
+.grocery {
+    margin: 20px;
+    background-color: white;
+    border: 20px solid whitesmoke;
+
+}
+
+.cool {
+    margin: 20px;
+    background-color: white;
+    border: 20px solid whitesmoke;
+
+}
+
+.text {
+    text-decoration: none;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 1000;
+    color: black;
+    margin-left: 100px;
+    margin: 20px;
+    background-color: white;
+    border: 20px solid whitesmoke;
+    text-align: center;
+
+}
